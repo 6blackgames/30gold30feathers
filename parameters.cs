@@ -15,7 +15,7 @@ public class trans : MonoBehaviour
     {
         float move = Input.GetAxis("Vertical");
         float turn = Input.GetAxis("Horizontal");
-        anim.SetFloat("Speed", move);
+        anim.SetFloat("vertical", move);
         anim.SetFloat("horizontal", turn);
     }
 }
