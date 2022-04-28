@@ -1,0 +1,5 @@
+ModelFile;PositionX;PositionY;PositionZ;RotationX;RotationY;RotationZ;RotationW;ScaleFactor;ModelId;Type;FileDataID
+..\..\world\expansion01\doodads\shadowmoon\rocks\shadowmoon_overhangrock_large_01.obj;17137.548828125;1442.7652587890625;15895.98046875;-16.5;309;-2.5;0;2.279296875;1041212;m2;193295
+..\..\world\expansion01\doodads\shadowmoon\rocks\shadowmoon_overhangrock_large_02.obj;16832.57421875;1394.1268310546875;15961.779296875;15.000000953674316;88.5;4.500001430511475;0;3.119140625;1041209;m2;193296
+..\..\world\expansion01\doodads\shadowmoon\rocks\shadowmoon_overhangrock_large_01.obj;16675.1875;1360.670166015625;15978.712890625;-16.5;309;-2.5;0;1.3896484375;1041210;m2;193295
+..\..\world\wmo\dungeon\blacktemple\blacktemple_set0.obj;16014.6640625;-178.43394470214844;17300.29296875;0;269.65313720703125;0;0;1;1075600;wmo;108713
